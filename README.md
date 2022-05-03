@@ -463,7 +463,7 @@ https://realpython.com/python-type-checking/
 &nbsp;
 
 ### Speed Up Data Access with PyArrow (Apache Arrow) - Data is the new API - Deepak K Gupta
-#### **Recommend: ?**
+#### **Recommend: Maybe**
 
 Constituents of a Software Program:
 1. Data
